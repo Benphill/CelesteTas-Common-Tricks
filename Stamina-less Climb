@@ -8,3 +8,14 @@
 1,L,J
 1,K
 24,R,K
+
+# Left Side Wall
+
+11,J,G
+1,R,J
+1,K
+24,L,K
+11,J,G
+1,R,J
+1,K
+24,L,K
